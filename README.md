@@ -23,4 +23,4 @@ A Java-based application that calculates a student's total marks, average percen
 - Conditional Statements
 
 ## Author
-Nikhitha Arva
+Nikitha Arva
